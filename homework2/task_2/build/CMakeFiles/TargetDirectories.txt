@@ -1,0 +1,3 @@
+/Users/kshitij/Documents/Programming/C++/MCppforCVandIP/ModernCppHW/homework2/task_2/build/CMakeFiles/task_2.dir
+/Users/kshitij/Documents/Programming/C++/MCppforCVandIP/ModernCppHW/homework2/task_2/build/CMakeFiles/edit_cache.dir
+/Users/kshitij/Documents/Programming/C++/MCppforCVandIP/ModernCppHW/homework2/task_2/build/CMakeFiles/rebuild_cache.dir
