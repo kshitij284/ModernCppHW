@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.0)
+project(website_creator)
+set(CMAKE_CXX_STANDARD 17)
+
+include_directories(api/)
+
+add_library(html_writer src/html_writer.cpp)
+
+add_executable(main src/main.cpp)
+
+target_link_libraries(main html_writer)
